@@ -32,6 +32,18 @@ Create an INSTEAD OF DML trigger for a view.
 
 ## Lab 5
 
+User-defined functions: 
+scalar-valued, 
+inline table-valued, 
+multistatement table-valued. 
+CROSS APPLY and OUTER APPLY operators.
+
 ## Lab 6
 
+Creation of stored procedures. 
+Using dynamic SQL. 
+PIVOT operator for forming a pivot table.
+
 ## Lab 7
+
+Working with XML.
